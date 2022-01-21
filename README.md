@@ -1,1 +1,1 @@
-tsTasks
+tsTasks for TypeScript Lessons
